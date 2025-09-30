@@ -17,7 +17,7 @@ I’m passionate about transforming raw data into meaningful insights and creati
 ## 📫 Connect With Me  
 - 📧 Email: [rutuja6411@gmail.com](mailto:rutuja6411@gmail.com)  
 - 🔗 [LinkedIn](#) (www.linkedin.com/in/rutuja-shinde)  
-- 🐙 [GitHub](https://github.com/rutujashinde27) 
+- 🐙 [GitHub](https://github.com/RutujaShinde27-NS) 
 ## 📄 Resume  
 - [View My Resume](https://drive.google.com/file/d/1q1ySm2NJNwfUWdU3897bUwZWiSmDA8Np/view?usp=drivesdk)
 ---
